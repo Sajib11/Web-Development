@@ -3,7 +3,7 @@ body{
   font-family: sans-serif;
 }
 .sec1{
-  margin: 40px 265px;
+  margin: 40px 120px;
   height: 90px;
 }
 navbar{
@@ -21,6 +21,7 @@ navbar{
 }
 .nav{
   width: 70%;
+  float:left;
 }
 .nav ul{
   display: flex;
@@ -37,7 +38,7 @@ navbar{
   color: gray;
 }
 .button{
-  width: 10%;
+  width: 20%;
 }
 .myBtn{
   background-color: blue;
