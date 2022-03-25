@@ -1,0 +1,28 @@
+body{
+	color: orange;
+	font-size:8px;
+}
+h1{
+	color: yellow;
+}
+p{
+	font-size:16px; 
+	color: green;
+}
+span{
+	color: red;
+}
+.p1{
+	font-size:25px;
+	color: violet;
+}
+.sec1 {
+	float: left;
+}
+.viewdemo {
+
+	
+}
+.subtext{
+	color:orange;
+}
